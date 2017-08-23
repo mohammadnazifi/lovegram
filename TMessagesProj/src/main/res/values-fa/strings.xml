@@ -278,7 +278,7 @@
     <string name="AndOther_other">و %1$d سایر</string>
     <string name="AndOther_two">و %1$d سایر</string>
     <string name="AndOther_zero">و %1$d سایر</string>
-    <string name="AppNameBeta">نیوزگرام بتا</string>
+    <string name="AppNameBeta">لاوگرام</string>
     <string name="ApplyLocalizationFile">تایید فایل زبان</string>
     <string name="AreTyping">د حال نوشتن هستن...</string>
     <string name="AreYouSure">مطمئنی؟</string>
@@ -1437,7 +1437,7 @@ If اگر این شما نیستید، میتوانید با رفتن به تن�
     <string name="AllChats">همه گفتگوها</string>
     <string name="AllChatsSelected">همه گفتگوها انتخاب شدند.</string>
     <string name="AllGroups">همه گروه ها</string>
-    <string name="AppName">نیوزگرام</string>
+    <string name="AppName">لاوگرام</string>
     <string name="AreYouSureDeleteCategory">"آیا از حذف این دسته بندی مطمئن هستید؟
 تمامی گفتگوهای موجود در این دسته بندی به صورت دسته بندی نشده باقی می مانند."</string>
     <string name="AreYouSureDeleteChanges">آیا از حذف تمامی تغییرات عکس مخاطبین اطمینان دارید؟</string>
