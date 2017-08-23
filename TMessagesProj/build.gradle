@@ -25,7 +25,7 @@ android {
     buildToolsVersion '24.0.2'
 
     useLibrary 'org.apache.http.legacy'
-    defaultConfig.applicationId = "com.mohamadpapi.newsgram"
+    defaultConfig.applicationId = "lovegram.mohammadnazifi.ir"
 
     sourceSets.main.jniLibs.srcDirs = ['./jni/']
 
