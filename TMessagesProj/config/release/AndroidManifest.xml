@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.mohamadpapi.newsgram"
+    package="lovegram.mohammadnazifi.ir"
     android:installLocation="auto">
 
     <uses-sdk tools:overrideLibrary="co.ronash.pushe" />
@@ -63,10 +63,10 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <permission
-        android:name="com.mohamadpapi.newsgram.permission.C2D_MESSAGE"
+        android:name="lovegram.mohammadnazifi.ir.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.mohamadpapi.newsgram.permission.C2D_MESSAGE" />
+    <uses-permission android:name="lovegram.mohammadnazifi.ir.permission.C2D_MESSAGE" />
 
     <!-- Optional permissions -->
     <application
@@ -398,7 +398,7 @@
                 <action android:name="android.intent.action.PACKAGE_REPLACED" />
 
                 <data
-                    android:path="com.mohamadpapi.newsgram"
+                    android:path="lovegram.mohammadnazifi.ir"
                     android:scheme="package" />
             </intent-filter>
         </receiver>
@@ -410,7 +410,7 @@
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.mohamadpapi.newsgram" />
+                <category android:name="lovegram.mohammadnazifi.ir" />
             </intent-filter>
         </receiver>
       
